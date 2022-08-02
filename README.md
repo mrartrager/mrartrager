@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrartrager
-- 👀 I’m interested in ... Bouldering, Playing Zelda and Drawing
+- 👀 I’m interested in ... Bouldering, Playing Zelda, Drawing
 - 🌱 I’m currently learning ... The very basics of Github
 - 💞️ I’m looking to collaborate on ... literally anything. 
 - 📫 How to reach me ...
