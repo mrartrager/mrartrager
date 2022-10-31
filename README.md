@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Matt!
 - 👀 I’m interested in ... Bouldering, Playing Zelda and Drawing
-- 🌱 I’m currently learning ... JavaScript and Web API's
+- 🌱 I’m currently learning ... JavaScript, Jquery, Web API's and node.js
 - 💞️ I’m looking to collaborate on ... literally anything. 
-- 📫 How to reach me ...
+- 📫 How to reach me ... matthew.d.waldron@gmail.com
 
 <!---
 mrartrager/mrartrager is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
