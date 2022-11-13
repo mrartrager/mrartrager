@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matt!
 - 👀 I’m interested in ... Bouldering, Playing Zelda and Drawing
-- 🌱 I’m currently learning ... JavaScript, Jquery, Web API's and node.js
+- 🌱 I’m currently learning ... JavaScript, express.js & mySQL
 - 💞️ I’m looking to collaborate on ... literally anything. 
 - 📫 How to reach me ... matthew.d.waldron@gmail.com
 
